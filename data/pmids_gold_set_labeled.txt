@@ -1,0 +1,103 @@
+30419345	Triple negative breast cancer
+30419349	Triple negative breast cancer
+30405852	Triple negative breast cancer
+30397860	Triple negative breast cancer
+30391405	Triple negative breast cancer
+28198380	Triple negative breast cancer
+25752562	Triple negative breast cancer
+28653902	Triple negative breast cancer
+26968398	Triple negative breast cancer
+25682074	Triple negative breast cancer
+28101798	Triple negative breast cancer
+27888421	Triple negative breast cancer
+26273192	Triple negative breast cancer
+28377481	Triple negative breast cancer
+26568208	Triple negative breast cancer
+26820943	Triple negative breast cancer
+27580659	Triple negative breast cancer
+28618929	Triple negative breast cancer
+26925684	Triple negative breast cancer
+28958991	Triple negative breast cancer
+26201402	Triple negative breast cancer
+24619745	Triple negative breast cancer
+27015557	Triple negative breast cancer
+23622184	Neurofibromatosis
+25008444	Neurofibromatosis
+23954459	Neurofibromatosis
+24032991	Neurofibromatosis
+29548054	Neurofibromatosis
+23793209	Neurofibromatosis
+23817811	Neurofibromatosis
+22411249	Neurofibromatosis
+23849732	Neurofibromatosis
+26542481	Osteogenesis imperfecta
+28863000	Osteogenesis imperfecta
+27346233	Osteogenesis imperfecta
+26861807	Osteogenesis imperfecta
+24715559	Osteogenesis imperfecta
+26492946	Osteogenesis imperfecta
+27100300	Osteogenesis imperfecta
+25439022	Osteogenesis imperfecta
+21670757	Osteogenesis imperfecta
+28689307	Osteogenesis imperfecta
+26987995	Osteogenesis imperfecta
+23858623	Osteogenesis imperfecta
+26031935	Osteogenesis imperfecta
+24950034	Osteogenesis imperfecta
+15110498	Osteogenesis imperfecta
+28625337	Osteogenesis imperfecta
+27140670	Cystic fibrosis
+26790364	Cystic fibrosis
+28449677	Cystic fibrosis
+25447947	Cystic fibrosis
+26003065	Cystic fibrosis
+27709245	Cystic fibrosis
+19403164	Cystic fibrosis
+28608632	Cystic fibrosis
+28786882	Cystic fibrosis
+27146508	Cystic fibrosis
+27578468	Cystic fibrosis
+23687244	Cystic fibrosis
+23734358	Cystic fibrosis
+12606185	Cystic fibrosis
+27475293	Cystic fibrosis
+26002249	Cystic fibrosis
+24915888	Cystic fibrosis
+28623538	Cystic fibrosis
+25888148	Cystic fibrosis
+24342234	Cystic fibrosis
+24715171	Cystic fibrosis
+25692532	Cystic fibrosis
+28539217	Cystic fibrosis
+27685428	Cystic fibrosis
+27074261	Cystic fibrosis
+17557942	Cystic fibrosis
+15077107	Cystic fibrosis
+23652683	Cystic fibrosis
+24655065	Cystic fibrosis
+26141073	Cystic fibrosis
+22229570	Cystic fibrosis
+21603163	Cystic fibrosis
+24705136	spinal muscular atrophy
+24715477	spinal muscular atrophy
+24769255	spinal muscular atrophy
+25080519	spinal muscular atrophy
+24523674	spinal muscular atrophy
+24533984	spinal muscular atrophy
+24695551	Bardet-Biedl Syndrome
+8270381	Bardet-Biedl Syndrome
+8712208	Bardet-Biedl Syndrome
+17574030	Bardet-Biedl Syndrome
+12677556	Bardet-Biedl Syndrome
+15231740	Bardet-Biedl Syndrome
+26586152	Bardet-Biedl Syndrome
+27488999	Bardet-Biedl Syndrome
+29039417	Bardet-Biedl Syndrome
+24316073	Bardet-Biedl Syndrome
+23716571	Bardet-Biedl Syndrome
+24611735	Bardet-Biedl Syndrome
+28174811	Bardet-Biedl Syndrome
+27442694	Bardet-Biedl Syndrome
+25672202	Bardet-Biedl Syndrome
+21246219	Bardet-Biedl Syndrome
+25458167	Bardet-Biedl Syndrome

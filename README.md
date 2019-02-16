@@ -63,7 +63,7 @@ You can use the following command-line parameters while executing this script:
 - **ari**: The flag to compute Adjusted Rand Index (ARI). This is a conditional argument. Default: False
 - **hcv**: The flag to compute Homogeneity, Completeness and V-Measure. This is a conditional argument. Default: False
 - **sc**: The flag to compute mean Silhouette Coefficient. This is a conditional argument. Default: False
-- **dist**: The distance metric used for computing silhouette coefficient. This is a conditional argument. Default: False
+- **dist**: The distance metric used for computing silhouette coefficient. This is a conditional argument. Default: ‘euclidean’ (check this link for more options: https://scikit-learn.org/0.15/modules/generated/sklearn.metrics.pairwise.pairwise_distances.html)
 - **store_output**: The flag to store output clusters in a file. This is a conditional argument. Default: False
 - **num_words**: The number of top words per cluster. This is a conditional argument. Default: 5
 - **store_model**: The flag to persist the model on disk. This is a conditional argument. Default: False

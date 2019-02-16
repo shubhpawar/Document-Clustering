@@ -1,6 +1,6 @@
 # Clustering PubMed Abstracts using K-Means
 
-This repository contains an implementation of a clustering approach for grouping PubMed abstracts that uses K-Means algorithm.
+This repository contains an implementation of a clustering approach for grouping PubMed abstracts by topics using a bag-of-words method and K-Means algorithm.
 
 The implementation contains two scripts: cluster_abstracts.py and evaluate_clusters.py.
 

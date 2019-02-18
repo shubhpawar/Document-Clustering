@@ -85,7 +85,7 @@ Silhouette Coefficient: 0.038
 
 ## Performance on the Test Set
 
-As we do not have gold cluster labels for the test set, I had to rely on the mean silhouette coefficient score to choose the best model. After testing out different values of number of clusters and looking at the clustering results for distinct, well-defined clusters, the best clustering results I obtained are in the file 'output_clusters_test_unlabeled.txt'. Associated silhouette score is 0.046.
+As we do not have gold cluster labels for the test set, I had to rely on the mean silhouette coefficient score to choose the best model. After testing out different values of number of clusters and looking at the clustering results for distinct, well-defined clusters, the best clustering results I obtained are in the file 'output_clusters_test_unlabeled.txt'. Associated silhouette score is 0.046 (with 'cosine' distance metric).
 
 Looking at the output, we can see that the PubMed records in the test set are about the following six topics:
 

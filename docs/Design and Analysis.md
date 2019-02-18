@@ -12,11 +12,11 @@ Note: Initially, for some reason, I was not able to access NCBI websites/API bec
 
 * **Step 2**: Preprocessing Text
 
-- **Tokenization**: It is a process of parsing text data into smaller units (tokens) such as words and phrases. I use unigrams, bigrams and trigrams as many disease names are multi-word phrases.
+  - **Tokenization**: It is a process of parsing text data into smaller units (tokens) such as words and phrases. I use unigrams, bigrams and trigrams as many disease names are multi-word phrases.
 
-- **Stop Word and Punctuation Removal**: Some tokens have less importance than others. For example, common words such as 'an' and punctuation such as '!' don't reveal the essential characteristics of a text.
+  - **Stop Word and Punctuation Removal**: Some tokens have less importance than others. For example, common words such as 'an' and punctuation such as '!' don't reveal the essential characteristics of a text.
 
-- **Stemming**: Various tokens might carry similar information. For example, 'going' and 'went' have the same information content. Hence, to reduce the redundant information, stemming reduces inflected (or sometimes derived) words to their word stem. I use the NLTK Snowball stemmer. Lemmatization could also be used which is a process of determining the lemma of a word based on its intended meaning.
+  - **Stemming**: Various tokens might carry similar information. For example, 'going' and 'went' have the same information content. Hence, to reduce the redundant information, stemming reduces inflected (or sometimes derived) words to their word stem. I use the NLTK Snowball stemmer. Lemmatization could also be used which is a process of determining the lemma of a word based on its intended meaning.
 
 * **Step 3**: TF-IDF Feature Extraction
 
@@ -45,11 +45,11 @@ The average complexity is given by O(nkdi) where n is the number of d-dimensiona
 
 I implemented five metrics to evaluate the clustering performance:
 
-- **Adjusted Rand Index**: Given the gold cluster assignments and clustering algorithm assignments, it is a function that measures the similarity of the two assignments, ignoring permutations and with chance normalization.
+  - **Adjusted Rand Index**: Given the gold cluster assignments and clustering algorithm assignments, it is a function that measures the similarity of the two assignments, ignoring permutations and with chance normalization.
 
 Bounded range [-1, 1]: negative values are bad (independent labelings), similar clusterings have a positive ARI, 1.0 is the perfect match score.
 
-- **Homogeneity, Completeness and V-Measure**: They require knowledge of the ground truth class assignments.
+  - **Homogeneity, Completeness and V-Measure**: They require knowledge of the ground truth class assignments.
 
 Homogeneity: each cluster contains only members of a single class.
 Completeness: all members of a given class are assigned to the same cluster.
@@ -57,7 +57,7 @@ V-measure: harmonic mean of homogeneity and completeness.
 
 Bounded range [0, 1]: 0.0 is as bad as it can be, 1.0 is a perfect score.
 
-- **Silhouette Coefficient**: It is a metric where a higher score related to a model with better defined clusters. It does not require ground truth labels.
+  - **Silhouette Coefficient**: It is a metric where a higher score related to a model with better defined clusters. It does not require ground truth labels.
 
 The Silhouette Coefficient is defined for each sample and is composed of two scores:
 
